@@ -4,7 +4,7 @@ I'm Yosia Aser Camme. Currently pursuing degree as a Computer Engineering Studen
 
 I'm always eager to contribute and collaborate on projects that challenge me and broaden my skills. Let's team up and build something cool together!
 
-Let's connect and collaborate! Feel free to reach me out on [Instagram](https://www.instagram.com/yosiaser/) or [LinkedIn](www.linkedin.com/in/yosiaac).
+Let's connect and collaborate! Feel free to reach me out on [Instagram](https://www.instagram.com/yosiaser/) or [LinkedIn](https://www.linkedin.com/in/yosiaac).
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
