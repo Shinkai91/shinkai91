@@ -1,6 +1,6 @@
 ## 👋 Hi! 
 
-I'm **Yosia Aser Camme**, a Computer Engineering student with a strong focus on **Mobile Development, Frontend Technologies, and Cloud Computing**. I’m excited to collaborate on projects where I can learn, contribute, and grow. Let’s work together to create practical and meaningful solutions!
+I'm **Yosia Aser Camme**, a Computer Engineering student with a strong focus on **Mobile Development, Frontend Technologies, and Cloud Computing**. I’m excited to collaborate on projects where I can learn, contribute, and grow. Let’s work together!!!
 
 ### 🌐 Let's Connect
 
