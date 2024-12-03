@@ -1,46 +1,40 @@
 ## 👋 Hi! 
 
-I'm **Yosia Aser Camme**, a passionate Computer Engineering student eager to collaborate and contribute to exciting projects. I thrive on challenges that help me grow and broaden my skills. Let's team up and build something amazing together!
+I'm **Yosia Aser Camme**, a Computer Engineering student with a strong focus on **Mobile Development, Frontend Technologies, and Cloud Computing**. I’m excited to collaborate on projects where I can learn, contribute, and grow. Let’s work together to create practical and meaningful solutions!
 
 ### 🌐 Let's Connect
 
 <div align="center">
   <a href="https://www.instagram.com/yosiaser/">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/yosiaac/">
-    <img src="https://img.icons8.com/fluency/48/linkedin-circled.png" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Shinkai91">
-    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
 ### 🛠️ Technologies & Tools
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart"/>
 
-  <!-- Mobile Development -->
-  <img src="https://img.icons8.com/color/48/flutter.png" alt="Flutter"/>
-  <img src="https://img.icons8.com/color/48/dart.png" alt="Dart"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React.js"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
 
-  <!-- Frontend Development -->
-  <img src="https://img.icons8.com/color/48/react-native.png" alt="React.js"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="Google Cloud Platform"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
 
-  <!-- Cloud Computing -->
-  <img src="https://img.icons8.com/color/48/google-cloud.png" alt="Google Cloud Platform"/>
-  <img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes"/>
-
-  <!-- Others -->
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="48" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" width="48" height="48"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="48" height="48"/>
-
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-EF4135?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
 </div>
 
 ### 📊 GitHub Stats
@@ -58,8 +52,7 @@ I'm **Yosia Aser Camme**, a passionate Computer Engineering student eager to col
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=Shinkai91&theme=moltack" alt="GitHub Streak" />
   </a>
-
-  <!-- Profile Views moved to the bottom -->
+  
   <div style="margin-top: 20px;">
     <img src="https://komarev.com/ghpvc/?username=Shinkai91&style=for-the-badge" alt="Profile Views" />
   </div>
