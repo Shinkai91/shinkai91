@@ -33,8 +33,6 @@ I'm **Yosia Aser Camme**, a Computer Engineering student with a strong focus on 
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Laravel-EF4135?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
 </div>
 
 ### 📊 GitHub Stats
