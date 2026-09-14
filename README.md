@@ -11,7 +11,6 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yosiaac/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" alt="LinkedIn"/></a>
-  <a href="https://www.instagram.com/yosiaser/"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&logoColor=f7768e" alt="Instagram"/></a>
   <a href="https://github.com/Shinkai91"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5" alt="GitHub"/></a>
   <img src="https://komarev.com/ghpvc/?username=Shinkai91&style=for-the-badge&color=bb9af7&labelColor=1a1b27&label=VISITORS" alt="views"/>
 </div>
@@ -32,11 +31,11 @@ learning: [ Kubernetes, LangGraph ]
 motto:    "Build, break, learn, repeat."
 ```
 
-- ⚔️ Sedang mengerjakan **web app fullstack & AI/RAG chatbot**
-- 🌙 Sedang mendalami **Cloud Native & MLOps**
-- 🤝 Terbuka untuk **kolaborasi project open source**
-- 💬 Tanya saja soal **React, Python, LLM, atau GCP**
-- 📫 Hubungi lewat **[LinkedIn](https://www.linkedin.com/in/yosiaac/)**
+- ⚔️ Currently building **fullstack web apps & AI/RAG chatbots**
+- 🌙 Currently learning **Cloud Native & MLOps**
+- 🤝 Open to **open source collaboration**
+- 💬 Ask me about **React, Python, LLMs, or GCP**
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/yosiaac/)**
 
 <br clear="right"/>
 
@@ -90,34 +89,16 @@ motto:    "Build, break, learn, repeat."
   </tr>
 </table>
 
-<!-- ══════════════════ PROJECTS ══════════════════ -->
-## 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Shinkai91/mindtrust">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shinkai91&repo=mindtrust&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb9af7&icon_color=f7768e&text_color=c0caf5" alt="mindtrust"/>
-  </a>
-  <a href="https://github.com/Shinkai91/RAG-Chatbot_Document">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shinkai91&repo=RAG-Chatbot_Document&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb9af7&icon_color=f7768e&text_color=c0caf5" alt="RAG-Chatbot_Document"/>
-  </a>
-  <a href="https://github.com/Shinkai91/etl-pipeline">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shinkai91&repo=etl-pipeline&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb9af7&icon_color=f7768e&text_color=c0caf5" alt="etl-pipeline"/>
-  </a>
-  <a href="https://github.com/Shinkai91/tahuisi-frontend">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Shinkai91&repo=tahuisi-frontend&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb9af7&icon_color=f7768e&text_color=c0caf5" alt="tahuisi-frontend"/>
-  </a>
-</div>
-
 <!-- ══════════════════ STATS ══════════════════ -->
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shinkai91&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb9af7&icon_color=f7768e&text_color=c0caf5" alt="stats"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shinkai91&theme=tokyonight" alt="stats"/>
   <img width="49%" src="https://streak-stats.demolab.com?user=Shinkai91&theme=tokyonight&hide_border=true&background=1a1b27&ring=bb9af7&fire=f7768e&currStreakLabel=bb9af7&sideLabels=c0caf5&dates=565f89&sideNums=c0caf5&currStreakNum=c0caf5" alt="streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Shinkai91&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb9af7&text_color=c0caf5" alt="top langs"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shinkai91&theme=tokyonight" alt="repos per language"/>
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shinkai91&theme=tokyonight" alt="most commit language"/>
 </div>
 
